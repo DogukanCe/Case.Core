@@ -1,0 +1,15 @@
+C:\Users\doguk\source\repos\Case.Core\Case.Core\bin\Debug\net5.0\Case.Core.deps.json
+C:\Users\doguk\source\repos\Case.Core\Case.Core\bin\Debug\net5.0\Case.Core.runtimeconfig.json
+C:\Users\doguk\source\repos\Case.Core\Case.Core\bin\Debug\net5.0\Case.Core.runtimeconfig.dev.json
+C:\Users\doguk\source\repos\Case.Core\Case.Core\bin\Debug\net5.0\Case.Core.dll
+C:\Users\doguk\source\repos\Case.Core\Case.Core\bin\Debug\net5.0\Case.Core.pdb
+C:\Users\doguk\source\repos\Case.Core\Case.Core\obj\Debug\net5.0\Case.Core.csproj.AssemblyReference.cache
+C:\Users\doguk\source\repos\Case.Core\Case.Core\obj\Debug\net5.0\Case.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doguk\source\repos\Case.Core\Case.Core\obj\Debug\net5.0\Case.Core.AssemblyInfoInputs.cache
+C:\Users\doguk\source\repos\Case.Core\Case.Core\obj\Debug\net5.0\Case.Core.AssemblyInfo.cs
+C:\Users\doguk\source\repos\Case.Core\Case.Core\obj\Debug\net5.0\Case.Core.csproj.CoreCompileInputs.cache
+C:\Users\doguk\source\repos\Case.Core\Case.Core\obj\Debug\net5.0\Case.Core.dll
+C:\Users\doguk\source\repos\Case.Core\Case.Core\obj\Debug\net5.0\refint\Case.Core.dll
+C:\Users\doguk\source\repos\Case.Core\Case.Core\obj\Debug\net5.0\Case.Core.pdb
+C:\Users\doguk\source\repos\Case.Core\Case.Core\obj\Debug\net5.0\Case.Core.genruntimeconfig.cache
+C:\Users\doguk\source\repos\Case.Core\Case.Core\obj\Debug\net5.0\ref\Case.Core.dll
